@@ -386,7 +386,7 @@ body.gradient-bg {
     position: relative;
     width: 200px;
     height: 200px;
-    margin: 0 auto 2rem;
+    margin: 0 auto 3.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -399,7 +399,7 @@ body.gradient-bg {
 
 .profile-image-wrapper[data-position="center"] {
     justify-self: center;
-    margin: 0 auto 2rem;
+    margin: 0 auto 3.5rem;
 }
 
 .profile-image-wrapper[data-position="right"] {
